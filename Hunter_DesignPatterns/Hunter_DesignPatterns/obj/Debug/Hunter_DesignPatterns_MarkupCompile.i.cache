@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\
+C:\Users\Student\Documents\duckhunt\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\
 Hunter_DesignPatterns
 none
 false
 DEBUG;TRACE
-c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\App.xaml
-21768565023
+C:\Users\Student\Documents\duckhunt\Hunter_DesignPatterns\Hunter_DesignPatterns\App.xaml
+31822497204
 
-311399873990
-13738642453
-MainWindow.xaml;View\GamePanel.xaml;
+32-419389776
+13-1643599102
+MainWindow.xaml;View\GamePanel.xaml;View\UnitView.xaml;
 
-False
+True
 

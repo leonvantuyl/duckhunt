@@ -16,24 +16,13 @@ using System.Windows.Shapes;
 namespace Hunter_DesignPatterns.View
 {
     /// <summary>
-    /// Interaction logic for GamePanel.xaml
+    /// Interaction logic for UnitView.xaml
     /// </summary>
-    public partial class GamePanel : UserControl
+    public partial class UnitView : UserControl
     {
-        public GamePanel()
+        public UnitView()
         {
             InitializeComponent();
-            addContainer();
-        }
-
-        internal void render(float dt)
-        {
-
-        }
-
-        public void addContainer()
-        {
-            gameCanvas.Children.Add(new UnitView());
         }
     }
 }

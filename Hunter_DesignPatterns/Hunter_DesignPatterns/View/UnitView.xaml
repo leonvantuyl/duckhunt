@@ -1,11 +1,17 @@
-﻿<UserControl x:Class="Hunter_DesignPatterns.View.GamePanel"
+﻿<UserControl x:Class="Hunter_DesignPatterns.View.UnitView"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:Hunter_DesignPatterns.View"
              mc:Ignorable="d" 
-             d:DesignHeight="500" d:DesignWidth="500">    
-        <Canvas Name="gameCanvas">            
-        </Canvas>    
+             d:DesignHeight="100" d:DesignWidth="100">
+    <Ellipse
+      Canvas.Top="50"
+      Canvas.Left="50"
+      Fill="#FFFFFF00"
+      Height="75"
+      Width="75"
+      StrokeThickness="5"
+      Stroke="#FF0000FF"/>
 </UserControl>
