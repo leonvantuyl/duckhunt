@@ -1,0 +1,16 @@
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\bin\Debug\Hunter_DesignPatterns.exe.config
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\bin\Debug\Hunter_DesignPatterns.exe
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\bin\Debug\Hunter_DesignPatterns.pdb
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns.csprojResolveAssemblyReference.cache
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\MainWindow.g.cs
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\App.g.cs
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns_MarkupCompile.cache
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns_MarkupCompile.lref
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\MainWindow.baml
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns.g.resources
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns.Properties.Resources.resources
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns.csproj.GenerateResource.Cache
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns.exe
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns.pdb
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\View\GamePanel.g.cs
+c:\users\leonlgame\documents\visual studio 2015\Projects\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\View\GamePanel.baml
