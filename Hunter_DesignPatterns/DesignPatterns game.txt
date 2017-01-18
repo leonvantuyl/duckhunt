@@ -1,0 +1,31 @@
+﻿Game KO	
+	User input mogelijk	
+	User interface	
+	Meerdere units in game	
+	Factory method voor units	
+	dt in de method van unit	
+	Game levels volgens state patroon	
+	Game units volgens state patroon	
+Game week 1	Basis week 1	
+	Basis game loop	
+	Game loop met geavanceerdere FPS of updates per seconds	
+	Aparte thread voor UI en logic	
+	ActionContainer (user input afvangen)	
+	ActionContainer is thread safe	
+	Model/View/Controller goed gescheiden	
+	Extra aandacht voor uiterlijk	
+Game week 3	Basis week 3	
+	Units hebben basisklasse				x
+	Factory zonder if's of switch statement			
+	Units ontkoppeld van factory method	
+	Alle acties uit units weggehaald	
+	Container wordt in de unit zelf gevuld	
+	Dt goed toegepast in unit	
+Game week 5	Basis week 5	
+	Game levels vullen via low binding	
+	Netheid van de methode NextLevel	
+	State patroon toegepast in game klasse			X
+	Finished level is aanwezig				X?
+	Transities states voor units slim geïmplementeerd	X	
+	Uitgebreide/Zinnige implementatie voor states van units	
+	Volgend level ziet er mooi uit	
