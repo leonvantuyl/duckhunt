@@ -32,3 +32,21 @@ C:\Users\Student\Documents\duckhunt\Hunter_DesignPatterns\Hunter_DesignPatterns\
 C:\Users\Student\Documents\duckhunt\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns.g.resources
 C:\Users\Student\Documents\duckhunt\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns.Properties.Resources.resources
 C:\Users\Student\Documents\duckhunt\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns.csproj.GenerateResource.Cache
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\bin\Debug\Hunter_DesignPatterns.exe.config
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns.exe
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns.pdb
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\bin\Debug\Hunter_DesignPatterns.exe
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\bin\Debug\Hunter_DesignPatterns.pdb
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns.csprojResolveAssemblyReference.cache
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\MainWindow.g.cs
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\View\GamePanel.g.cs
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\View\UnitView.g.cs
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\App.g.cs
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns_MarkupCompile.cache
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns_MarkupCompile.lref
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\MainWindow.baml
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\View\GamePanel.baml
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\View\UnitView.baml
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns.g.resources
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns.Properties.Resources.resources
+C:\Users\LeonLgame\Documents\Visual Studio 2015\Projects\Hunter\Hunter_DesignPatterns\Hunter_DesignPatterns\obj\Debug\Hunter_DesignPatterns.csproj.GenerateResource.Cache

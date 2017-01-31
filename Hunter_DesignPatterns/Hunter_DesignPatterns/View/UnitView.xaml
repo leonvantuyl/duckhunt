@@ -7,8 +7,7 @@
              mc:Ignorable="d" 
              d:DesignHeight="100" d:DesignWidth="100">
     <Ellipse
-      Canvas.Top="50"
-      Canvas.Left="50"
+      Name="unitContainer"
       Fill="#FFFFFF00"
       Height="75"
       Width="75"

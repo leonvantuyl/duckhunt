@@ -55,6 +55,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Model\Provider\UnitMonitor.cs" />
     <Compile Include="Utility\GameTimer.cs" />
     <Compile Include="View\GamePanel.xaml.cs">
       <DependentUpon>GamePanel.xaml</DependentUpon>

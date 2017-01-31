@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Hunter_DesignPatterns"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="600">
+        Title="MainWindow" Height="600" Width="600"
+        ResizeMode="NoResize">
     <Grid Name="grid">
         <Button Name="StartGameButton" Height="50" Width="400" Click="StartGame_Click"> Start hunting </Button>
     </Grid>

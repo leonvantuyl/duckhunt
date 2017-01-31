@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
 
 namespace Hunter_DesignPatternsGame.Model.Levels
 {
@@ -31,17 +32,24 @@ namespace Hunter_DesignPatternsGame.Model.Levels
         internal void update(float dt)
         {
             currentTime += dt;
-            Console.WriteLine("time" + currentTime);
             if (currentTime >= spawnRate)
             {
                 currentTime = 0;
                 spawnUnit();
             }        
-            foreach (UnitBase unit in units) //TODO possible bug here when removing units
+            foreach (UnitBase unit in units) //TODO possible bug here when removing units, test for failure possibly replace with extra while loop
             {
                 unit.update(dt);
                 if (unit.removeFlag)
                     removeUnit(unit);
+            }
+        }
+
+        internal void scanForHits(Point hit)
+        {
+           foreach(UnitBase target in units)
+            {
+                target.attemptHit(hit);
             }
         }
 

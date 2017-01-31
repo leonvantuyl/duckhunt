@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Hunter_DesignPatternsGame.Controller;
 
 namespace Hunter_DesignPatterns.View
 {
@@ -20,20 +21,40 @@ namespace Hunter_DesignPatterns.View
     /// </summary>
     public partial class GamePanel : UserControl
     {
+        private MainController controller;
+        private List<UnitView> unitViews;
         public GamePanel()
         {
+            unitViews = new List<UnitView>();
             InitializeComponent();
-            addContainer();
+            addUnitView(new Point { X = 50, Y = 50 });
+            addUnitView(new Point { X = 150, Y = 150 });
         }
 
-        internal void render(float dt)
+        public void render(float dt)
         {
-
+            foreach (UnitView unit in unitViews)
+            {
+                unit.render(dt);
+            }
         }
 
-        public void addContainer()
+        internal void addController(MainController controller)
         {
-            gameCanvas.Children.Add(new UnitView());
+            this.controller = controller;
+        }
+
+        public void addUnitView(Point pos)
+        {
+            UnitView unitView = new UnitView(pos);
+            unitViews.Add(unitView);
+            gameCanvas.Children.Add(unitView);
+        }
+
+        private void gameCanvas_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            Point point = e.GetPosition(gameCanvas);        
+            controller.addAction(point);
         }
     }
 }

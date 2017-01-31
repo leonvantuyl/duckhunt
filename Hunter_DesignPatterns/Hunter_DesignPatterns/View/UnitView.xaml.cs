@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Hunter_DesignPatternsGame;
+using Hunter_DesignPatternsGame.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,9 +22,16 @@ namespace Hunter_DesignPatterns.View
     /// </summary>
     public partial class UnitView : UserControl
     {
-        public UnitView()
-        {
+        
+        public UnitView(Point pos)
+        {            
             InitializeComponent();
-        }
+            unitContainer.Width = pos.X;
+        }        
+
+        internal void render(float dt)
+        {            
+            //something something
+        }        
     }
 }

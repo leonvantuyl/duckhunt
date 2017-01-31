@@ -24,20 +24,22 @@ namespace Hunter_DesignPatterns
     public partial class MainWindow : Window
     {
         private MainController controller;
+        private GamePanel gamePanel;
         public MainWindow()
         {
             InitializeComponent();
-            GamePanel gamePanel = new GamePanel();            
-            grid.Children.Add(gamePanel);
-
+            gamePanel = new GamePanel();         
             Game model = new Game();
-             controller = new MainController(gamePanel, model);
+            controller = new MainController(gamePanel, model);
+            gamePanel.addController(controller);
         }
 
         private void StartGame_Click(object sender, RoutedEventArgs e)
         {
-            controller.startGame();
             grid.Children.Remove(StartGameButton);
+            grid.Children.Add(gamePanel);
+            Console.WriteLine(gamePanel.IsVisible);
+            controller.startGame();            
         }
     }
 }
